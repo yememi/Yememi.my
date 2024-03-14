@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yememi</string>
+    <string name="powered_by_yememi">Powered by Yememi</string>
+    <string name="copyright_2024_yememi_corp">Copyright © 2024 Yememi.Corp</string>
+</resources>
